@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toast.makeText(this,"test code modify",Toast.LENGTH_SHORT).show();
         Log.d(TAG,"test for secode modify");
+        Log.d(TAG,"test for thrid modify");
     }
 }
